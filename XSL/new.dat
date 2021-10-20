@@ -1,0 +1,10 @@
+<fns:New xmlns:fns="http://schemas.dell.com/fulfillment/mfg/messaging/WorkOrder/V3_0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.dell.com/fulfillment/mfg/messaging/WorkOrder/V3_0 BOX_3IN1.xsd">
+<MESSAGE_HEADER>
+	<MESSAGE_TYPE>new</MESSAGE_TYPE>
+</MESSAGE_HEADER>
+  <New>
+  	<FirstName>Gigi</FirstName>
+  	<LastName>Hadid</LastName>
+  	<MobileNumber>97335</MobileNumber>
+  </New>
+</fns:New>
